@@ -13,7 +13,7 @@ import Dashboard from "./pages/Dashboard";
 import ProductManagement from "./pages/ProductManagement";
 import AddProduct from "./pages/AddProduct";
 import SearchProduct from "./pages/SearchProduct";
-import ViewAllProducts from "./pages/ViewAllProducts";
+import ViewAllProducts from "./pages/viewAllProducts";
 import ViewProduct from "./pages/ViewProduct";
 import UpdateProduct from "./pages/UpdateProduct";
 import SellMyProduct from "./pages/SellMyProduct";
